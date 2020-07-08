@@ -1,0 +1,9 @@
+1. Original
+Error rate by word: 0.05409178153899843 (2170 errors out of 40117)
+Error rate by sentence: 0.6558823529411765 (1115 errors out of 1700)
+2. My Own HMM Tagger
+Error rate by word: 0.04898172844430042 (1965 errors out of 40117)
+Error rate by sentence: 0.63 (1071 errors out of 1700)
+3. Improvement
+Error rate by word: 0.005110053094698008 improved (205 less errors out of 40117)
+Error rate by sentence: 0.02588235294117647 improved (44 less errors out of 1700)
